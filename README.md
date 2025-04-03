@@ -1,5 +1,5 @@
 # 💫 About Me:
-No momento estou estudando:<br>JavaScript<br>Devenvolvimento Web
+I am currently studying:        |        No momento estou estudando:<br>JavaScript                                           JavaScript<br>Web Development                           Desenvolvimento Web
 
 
 ## 🌐 Socials:
